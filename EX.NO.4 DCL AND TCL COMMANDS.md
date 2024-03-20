@@ -8,8 +8,8 @@ To create a manager database and execute DML queries using SQL.
 * Data control language (DCL) is used to access the stored data.
 * It is mainly used for revoke and to grant the user the required access to a database.
 ## List of DCL commands: 
-1. GRANT : It is used to insert data into a table.
-2. REVOKE: It is used to update existing data within a table.
+1. GRANT : It is used to give database access permissions to other users.
+2. REVOKE: It is used to revoke the access permissions given to users.
 ## Transaction control language(TCL) commands
 1. COMMIT : COMMIT command in SQL is used to save all the transaction-related changes permanently to the disk
 2. START TRANSACTION : to start the transaction
