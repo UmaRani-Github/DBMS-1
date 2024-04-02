@@ -21,26 +21,21 @@ To create a student database and execute DDL queries using SQL.
 5. RENAME: This is used to rename an object existing in the database.
 
 ## Query:
-### 1) Create a database studentdb
 
-### SQL QUERY:
-
-### OUTPUT:
-
-### 2) Create a table student  and insert any two rows with the following fieds RegisterNumber,Name,Age,Address,Phone number
+### 1) Create a table student  and insert any two rows with the following fieds RegisterNumber,Name,Age,Address,Phone number
 
 ### SQL QUERY: 
 
 
 ### OUTPUT:
 
-### 3) Alter the above student table by adding another attribute department
+### 2) Alter the above student table by adding another attribute department
 
 ### SQL QUERY: 
 
 ### OUTPUT:
 
-### 4) Rename the student table to mystudent
+### 3) Rename the student table to mystudent
 
 ### SQL QUERY: 
 
@@ -48,13 +43,13 @@ To create a student database and execute DDL queries using SQL.
 
 ### OUTPUT:
 
-### 5) Delete the mystudent rows using truncate keyword
+### 4) Delete the mystudent rows using truncate keyword
 
 ### SQL QUERY: 
 
 
 ### OUTPUT:
-### 4) Drop the mystudent table
+### 5) Drop the mystudent table
  
 ### SQL QUERY: 
 
